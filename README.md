@@ -22,3 +22,8 @@
 
 
 <img width="585" height="1266" alt="B51AD5C2B0CFCCB345527026EFD70B96" src="https://github.com/user-attachments/assets/cb2e664a-ba9f-4229-8899-b2c446b40931" /> <img width="585" height="1266" alt="F952F863C2BAADCF3192DAD40F2FDDB6" src="https://github.com/user-attachments/assets/b61a7cbf-ce4a-4448-b456-a2550c9889de" /> ![C5C28D38F6B5B6DA59B2294576EEEA82](https://github.com/user-attachments/assets/f61648a2-f281-4fe2-9f4e-80987cb72e4c)
+
+# 其他说明
+本系统用于学习技术交流，切记不要用于任何非法用途 ，本软件作者不会为此承担任何责任
+如有雷同以避免引发不必要的误会可联系作者更改。
+可联系QQ: 1419427712
